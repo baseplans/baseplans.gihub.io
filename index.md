@@ -1,40 +1,30 @@
-## Concept > Design > Construction
+# Concept > Design > Construction
 
 Highly experienced in delivering engineering solutions
 
-### Services
+## Professional Services
 
-Land Development | Subdivision | Water Supply | Sewerage | Stormwater | Site Development
+Land Development , Subdivision , Water Supply , Sewerage , Stormwater , Site Development
 
-Development Applications | Operational Works | Reconfiguration of Lots
+Development Applications , Operational Works , Reconfiguration of Lots
 
-Cost Estimates & Feasibility | Contract Administration
+Cost Estimates & Feasibility , Contract Administration
 
-Private Enterprise | Local Goverment
+Private Enterprise , Local Goverment
 
 ...and more
 
-# Header 1
-## Header 2
-### Header 3
+## Contact
 
-- Bulleted
-- List
+[admin@baseplans.com.au](mailto:admin@baseplans.com.au)
 
-1. Numbered
-2. List
+## Links
 
-**Bold** and _Italic_ and `Code` text
+[https://www.cairns.qld.gov.au/](https://www.cairns.qld.gov.au/)
 
-[Link](url) and ![Image](src)
-```
+[https://douglas.qld.gov.au/](https://douglas.qld.gov.au/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[https://msc.qld.gov.au/](https://msc.qld.gov.au/)
 
-### Jekyll Themes
+[https://www.trc.qld.gov.au/](https://www.trc.qld.gov.au/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/baseplans/baseplans.gihub.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
